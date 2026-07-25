@@ -185,8 +185,10 @@
 
 - **Windows**: MSI, EXE
 - **macOS**: DMG, App Bundle
-- **Linux**: AppImage, DEB, RPM
+- **Linux**: AppImage, DEB, RPM，以及从源码构建的 Nix flake
 - **移动平台**: APK, IPA
+
+Linux 软件源与 Nix 分发方式见 `docs/CurrentState/LinuxRepository.md`。
 
 ### 9.2 更新机制
 

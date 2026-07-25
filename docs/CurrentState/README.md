@@ -74,3 +74,11 @@
 15. `docs/CurrentState/CharacterIdentityContract.md`
    - 角色身份契约当前实现快照
    - 包含 `avatar_url` exact filename 契约、Rust stem key、chat directory alias/lazy resolver、rename/delete 当前语义与持续开发约束
+
+16. `docs/CurrentState/UpdateChannels.md`
+   - Stable / Canary 更新检测与统一发布契约
+   - 包含用户时间、机器 SHA、默认渠道、产物命名和可选 AI release notes 的边界
+
+17. `docs/CurrentState/LinuxRepository.md`
+   - APT、RPM 与 Nix 的分发现状
+   - 包含支持范围、签名身份、安装入口、缓存配置和维护边界
